@@ -1,0 +1,153 @@
+.subtitle {
+  font-size: 11px;
+}
+
+.logo {
+  margin-top: 20px;
+}
+
+.menu-header {
+  margin-top: 10px;
+}
+
+.cover {
+  background-image: url('../pages/images/slider-img38.jpg');
+  background-color: #e8e4cb;
+  height: 700px;
+}
+
+.item-container-box {
+  margin-left: 100px;
+  margin-right: 120px;
+  font-size: 15px;
+  background-color: white;
+}
+
+.item-box {
+  width: 200px;
+  margin-bottom: -30px;
+}
+
+.price {
+  margin-top: -30px;
+}
+
+.shop-newsletter-main {
+  background-color: #252525;
+  height: 310px;;
+}
+
+.fashion-box {
+  background-color: white;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.fashion {
+  margin-top: 60px;
+}
+
+.blog-details {
+  margin-bottom: 50px;
+}
+
+.container-discount {
+  background-color: #f6f6f6;
+}
+
+.text-block {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.container-label {
+  height: 500px;
+}
+
+.item {
+  width: 400px;
+  margin-left: 40px;
+}
+
+.container-advantage {
+  height: 400px;
+  margin-left: -3000px;
+}
+
+.footer-middle {
+  height: 500px;
+}
+
+.footer-text {
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.footer-link1 {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.footer-link2 {
+  font-size: 11px;
+  margin-top: 50px;
+  text-transform: uppercase;
+}
+
+.footer-link3 {
+  font-size: 11px;
+  margin-top: 50px;
+  text-transform: uppercase;
+}
+
+.footer-link4 {
+  font-size: 11px;
+  margin-top: 50px;
+  text-transform: uppercase;
+}
+
+.about-links {
+  margin-top: 15px;
+}
+
+.footer-middle {
+  background-color: #f4f4f4;
+  width: 1355px;
+  margin-left: -15px;
+  height: 100%;
+}
+
+.footer-link {
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+
+.footer-bottom {
+  margin-left: -15px;
+  width: 1355px;
+}
+
+.copyright {
+  margin-top: 25px;
+}
+
+.footer-logo {
+  margin-top: 25px;
+}
+
+.secondary-header {
+  margin-right: 300px;
+  font-size: 20px;
+  width: 100%;
+  border-style: inset;
+  border-width: thin;
+}
+
+.navbar-collapse-secondary {
+  margin-top: 10px;
+  margin-left: 1000px;
+}
+
+.item-description {
+  font-size: 15px;
+}
